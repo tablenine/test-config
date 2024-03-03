@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/mydb_dev
+    url: jdbc:mysql://localhost:3306/mydb_changedev
     username: alphauser
     password: devpass
 logging:
